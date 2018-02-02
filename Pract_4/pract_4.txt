@@ -1,0 +1,11 @@
+ClearDB Managed MySQL Database-kr
+
+"credentials": {
+                "jdbcUrl": "jdbc:mysql://au-cdbr-sl-syd-01.cleardb.net/ibmx_3d8cfd6324cafe3?user=b878dff8665a3a&password=672e4100",
+                "uri": "mysql://b878dff8665a3a:672e4100@au-cdbr-sl-syd-01.cleardb.net:3306/ibmx_3d8cfd6324cafe3?reconnect=true",
+                "name": "ibmx_3d8cfd6324cafe3",
+                "hostname": "au-cdbr-sl-syd-01.cleardb.net",
+                "port": "3306",
+                "username": "b878dff8665a3a",
+                "password": "672e4100"
+            },
